@@ -1,0 +1,56 @@
+[
+    {
+        "For You": [
+            "tech-leaders",
+            "investors",
+            "management",
+            "academics",
+            "government"
+        ]
+    },
+    {
+        "Sectors": [
+            "energy",
+            "materials",
+            "industrials",
+            "consumer-discretionary",
+            "consumer-staples",
+            "healthcare",
+            "financials",
+            "information-technology",
+            "communication-services",
+            "utilities",
+            "real-estate"
+        ]
+    },
+    {
+        "Theme": [
+            "sustainability",
+            "trade-tariffs",
+            "global-conflicts",
+            "employment",
+            "work-of-future",
+            "deep-tech"
+        ]
+    },
+    {
+        "Geography": [
+            "global",
+            "gcc",
+            "mena",
+            "eu",
+            "asean",
+            "south-asia",
+            "east-asia",
+            "central-asia",
+            "sub-saharan-africa",
+            "africa",
+            "america",
+            "central-america-&-caribbean",
+            "south-america",
+            "asia",
+            "europe",
+            "oceania"
+        ]
+    }
+]
