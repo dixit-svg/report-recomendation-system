@@ -4,7 +4,7 @@ import re
 
 import streamlit as st
 
-from recommend import get_report_recommendations_from_url, BASE_REPORT_URL
+from recommend_v2 import get_report_recommendations_from_url, BASE_REPORT_URL
 
 logging.disable(logging.CRITICAL)
 
